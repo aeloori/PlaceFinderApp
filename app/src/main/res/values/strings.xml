@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlaceFinder</string>
+    <string name="headText">Find out the place allocated for the pincode</string>
+    <string name="inputText">Enter a PinCode here</string>
+    <string name="submitButton">Submit</string>
+    <string name="resultText">Place allocated to the given pinCode is : </string>
+</resources>
